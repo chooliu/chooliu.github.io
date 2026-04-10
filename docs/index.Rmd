@@ -1,5 +1,5 @@
 ---
-title: "Choo Liu"
+title: "Cuining (Choo) Liu"
 image: "docs/me.png"
 links:
   - label: Github
@@ -13,15 +13,13 @@ output:
  
 ### About Me
 
-Hi! My name is Choo, a PhD Bioinformatics student at UCLA.
-
-My career began as a molecular biologist in biotech (e.g., 10X Genomics), followed by statistical training (MS Biostatistics; Colorado School of Public Health / Anschutz Medical Campus statistics consulting core).
+Hi! I am a PhD Bioinformatics student at UCLA. My interest in computational biology began as a molecular biologist in biotech (e.g., 10X Genomics), followed by statistical training (MS Biostatistics; Colorado School of Public Health / Anschutz Medical Campus statistics consulting core).
 
 These past lives have converged in my work in the Luo Lab at UCLA (PI: Chongyuan Luo), where our group develops multiomic single-cell and spatial assays. My dissertation work extends statistical genetics to these new tools, particularly focusing on how genetic variation and 5mC-methylation interact with aging and neuropsychiatric phenotypes.
 
 ---
 
-Learning about other folks' research and teaching (including undergraduate student supervision) are my favorite parts of being in academia.
+Learning about other folks' research and teaching (currently: TA, UCLA C&S M187 & undergraduate research supervision) are my favorite parts of being in academia.
 
 Please reach out if you'd like to collaborate or grab a coffee.
 
@@ -30,16 +28,18 @@ Please reach out if you'd like to collaborate or grab a coffee.
 
 #### **Recent Highlights**
 
-Eyring & Liu, et al. (2026) *A Single-Cell Atlas of DNA Methylation in Autism Spectrum Disorder Reveals Distinct Regulatory and Aging Signatures in Prefrontal Cortex.* [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.17.660162v1)
+* Eyring & Liu, et al. (in press, 2026) *A Single-Cell Atlas of DNA Methylation in Autism Spectrum Disorder Reveals Distinct Regulatory and Aging Signatures in Prefrontal Cortex.* [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.17.660162v1)
 
-Li, et al. (2025) *Integration of Polygenic Risk with Single Cell Methylation Profiles for Depression.* [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.11.642615v1)
+* Zhou, et al. (2026) *Distinct cellular DNA methylation mechanisms underlie common and rare genetic risk for brain disorders.* [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.03.09.710649v1)
 
-Krockenberger, et al. (2025) *FastGxC: Fast and Powerful Context-Specific eQTL Mapping in Bulk and Single-Cell Data.* [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.17.448889v2)
+* Li, et al. (2025) *Integration of Polygenic Risk with Single Cell Methylation Profiles for Depression.* [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.03.11.642615v1)
+
+* Krockenberger, et al. (2025) *FastGxC: Fast and Powerful Context-Specific eQTL Mapping in Bulk and Single-Cell Data.* [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.17.448889v2)
 
 ---
 
 
 #### Other Interests
 
-clinical volunteering (mental health and dementia settings), botany, synthesizers, field recordings, internet history/doomscrolling, rain and rocky beaches (pictured above: Lands End), film noir, and immediately misplacing all of my pencils and pens.
+clinical volunteering (mental health and dementia settings), botany, synthesizers, field recordings, internet history/doomscrolling, rain and rocky beaches (pictured above: Lands End, San Francisco), film noir, and immediately misplacing all of my pencils and pens.
 
